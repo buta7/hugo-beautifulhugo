@@ -11,3 +11,6 @@ gen:
 
 clean:
 	rm -fr public/*
+
+deploy:
+	sh deploy.sh
