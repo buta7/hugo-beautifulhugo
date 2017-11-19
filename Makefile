@@ -1,4 +1,4 @@
-HOST=kessel.oroshi.toyoake.or.jp
+HOST=localhost
 PORT=5000
 
 all: clean gen run
