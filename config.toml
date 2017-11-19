@@ -1,0 +1,7 @@
+baseURL = "https://higebobo.github.com/blog-hugo/"
+languageCode = "ja"
+title = "Hugo Blog"
+#theme = "hugo-creative-portfolio-theme"
+theme = "beautifulhugo"
+canonifyurls = true
+publishDir = "docs"
