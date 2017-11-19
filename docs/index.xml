@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blog</title>
+    <link>https://higebobo.github.com/blog-hugo/</link>
+    <description>Recent content on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 19 Nov 2017 15:57:55 +0900</lastBuildDate>
+    
+	<atom:link href="https://higebobo.github.com/blog-hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>https://higebobo.github.com/blog-hugo/posts/2017/11/hello/</link>
+      <pubDate>Sun, 19 Nov 2017 15:57:55 +0900</pubDate>
+      
+      <guid>https://higebobo.github.com/blog-hugo/posts/2017/11/hello/</guid>
+      <description>ぶっちゃけ</description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://higebobo.github.com/blog-hugo/hello/</link>
+      <pubDate>Sun, 19 Nov 2017 15:45:20 +0900</pubDate>
+      
+      <guid>https://higebobo.github.com/blog-hugo/hello/</guid>
+      <description>Welcome Hugoの世界へようこそ</description>
+    </item>
+    
+    <item>
+      <title>2017 11 17 Helloworld</title>
+      <link>https://higebobo.github.com/blog-hugo/post/2017-11-17-helloworld/</link>
+      <pubDate>Fri, 17 Nov 2017 16:50:48 +0900</pubDate>
+      
+      <guid>https://higebobo.github.com/blog-hugo/post/2017-11-17-helloworld/</guid>
+      <description>Hello HUGO It&amp;rsquo;s wonderful</description>
+    </item>
+    
+  </channel>
+</rss>
