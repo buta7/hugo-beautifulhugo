@@ -1,48 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://higebobo.github.com/blog-hugo/posts/2017/11/hello/</loc>
-    <lastmod>2017-11-19T15:57:55+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://higebobo.github.com/blog-hugo/hello/</loc>
-    <lastmod>2017-11-19T15:45:20+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://higebobo.github.com/blog-hugo/post/2017-11-17-helloworld/</loc>
+    <loc>https://higebobo.github.com/blog-hugo/posts/2017/11/17/helloworld/</loc>
     <lastmod>2017-11-17T16:50:48+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://higebobo.github.com/blog-hugo/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://higebobo.github.com/blog-hugo/</loc>
-    <lastmod>2017-11-19T15:57:55+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2017-11-17T16:50:48+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://higebobo.github.com/blog-hugo/posts/</loc>
-    <lastmod>2017-11-19T15:57:55+09:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2017-11-17T16:50:48+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://higebobo.github.com/blog-hugo/post/</loc>
-    <lastmod>2017-11-17T16:50:48+09:00</lastmod>
-    <priority>0</priority>
+    <loc>https://higebobo.github.com/blog-hugo/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://higebobo.github.com/blog-hugo/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://higebobo.github.com/blog-hugo/page/</loc>
   </url>
   
   <url>
     <loc>https://higebobo.github.com/blog-hugo/tags/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

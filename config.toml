@@ -3,5 +3,20 @@ languageCode = "ja"
 title = "Hugo Blog"
 #theme = "hugo-creative-portfolio-theme"
 theme = "beautifulhugo"
-canonifyurls = true
+#canonifyurls = true
 publishDir = "docs"
+
+[[menu.main]]
+  name = "Blog"
+  url = "posts"
+  weight = 1
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags"
+  weight = 2
+
+[[menu.main]]
+  name = "About"
+  url = "page/about/"
+  weight = 3
