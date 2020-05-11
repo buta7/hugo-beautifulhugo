@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Blog</title>
-    <link>https://higebobo.github.io/blog-hugo/</link>
-    <description>Recent content on Hugo Blog</description>
+    <title>Higebobo Blog</title>
+    <link>https://higebobo.github.io/hugo-beautifulhugo/</link>
+    <description>Recent content on Higebobo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Thu, 07 May 2020 18:52:31 +0900</lastBuildDate>
     
-	<atom:link href="https://higebobo.github.io/blog-hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://higebobo.github.io/hugo-beautifulhugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>https://higebobo.github.io/blog-hugo/posts/2020/05/07/again/</link>
+      <link>https://higebobo.github.io/hugo-beautifulhugo/posts/2020/05/07/again/</link>
       <pubDate>Thu, 07 May 2020 18:52:31 +0900</pubDate>
       
-      <guid>https://higebobo.github.io/blog-hugo/posts/2020/05/07/again/</guid>
+      <guid>https://higebobo.github.io/hugo-beautifulhugo/posts/2020/05/07/again/</guid>
       <description>ぶっちゃけ
 どうよ</description>
     </item>
     
     <item>
       <title>2017 11 17 Helloworld</title>
-      <link>https://higebobo.github.io/blog-hugo/posts/2017/11/17/helloworld/</link>
+      <link>https://higebobo.github.io/hugo-beautifulhugo/posts/2017/11/17/helloworld/</link>
       <pubDate>Fri, 17 Nov 2017 16:50:48 +0900</pubDate>
       
-      <guid>https://higebobo.github.io/blog-hugo/posts/2017/11/17/helloworld/</guid>
+      <guid>https://higebobo.github.io/hugo-beautifulhugo/posts/2017/11/17/helloworld/</guid>
       <description>Hello HUGO It&amp;rsquo;s wonderful</description>
     </item>
     
     <item>
       <title>このサイトについて</title>
-      <link>https://higebobo.github.io/blog-hugo/page/about/</link>
+      <link>https://higebobo.github.io/hugo-beautifulhugo/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://higebobo.github.io/blog-hugo/page/about/</guid>
+      <guid>https://higebobo.github.io/hugo-beautifulhugo/page/about/</guid>
       <description>まったりとつくっちゅう</description>
     </item>
     
