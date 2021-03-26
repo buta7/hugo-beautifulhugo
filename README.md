@@ -4,13 +4,16 @@
 
 サイト作成
 
-    $ hugo new site blog-hugo
+```shell
+hugo new site hugo-beatifulhugo
+```
 
 テーマ設定
 
-    $ cd blog-hugo/themes
-    $ git clone https://github.com/halogenica/beautifulhugo.git 
-    $ rm -fr .git*
+```shell
+cd themes
+git submodule add https://github.com/halogenica/beautifulhugo.git 
+```
 
 ## 使い方
 
@@ -18,31 +21,33 @@
 
 新規投稿
 
-    $ hugo new posts/2017/11/21/helloworld.md
-    content/posts/2017/11/21/helloworld.md created
-    
+```shell
+hugo new posts/2017/11/21/helloworld.md
+content/posts/2017/11/21/helloworld.md created
+```
+
 文書作成
 
-    $ vi content/posts/2017/11/21/helloworld.md
-    
+```shell
+vi content/posts/2017/11/21/helloworld.md
+```
+
 下書きモード解除
 
-    $ vi content/posts/2017/11/21/helloworld.md
-    ...
-    draft: false
-    ...
-    
-(古い情報)下書きモード解除
-
-    $ hugo undraft content/posts/2017/11/21/helloworld.md
+```shell
+vi content/posts/2017/11/21/helloworld.md
+draft: false
+```
 
 固定ページの作成
 
-    $ vi content/page/about/index.md
-    ...
+```shell
+vi content/page/about/index.md
+```
     
 上記ファイル構成を元にconfig.tomlのメニューを設定
 
+```toml
     [[menu.main]]
       name = "Blog"
       url = "posts"
@@ -57,21 +62,28 @@
       name = "About"
       url = "page/about/"
       weight = 3
+```
 
 プレビュー(http://localhost:1313)
 
-    $ make run
+```shell
+make run
+```
 
 ## Github連携
 
 config.tomlに以下の設定
 
+```toml
     baseURL = "https://higebobo.github.com/blog-hugo/"
     publishDir = "docs"
+```
 
 公開(githubにプッシュ)
 
-    $ make deploy
+```shell
+make deploy
+```
 
 ## Link
 
