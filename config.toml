@@ -4,7 +4,7 @@ title = "Higebobo Blog"
 #theme = "hugo-creative-portfolio-theme"
 theme = "beautifulhugo"
 #canonifyurls = true
-publishDir = "docs"
+#publishDir = "docs"
 
 [[menu.main]]
   name = "Blog"
